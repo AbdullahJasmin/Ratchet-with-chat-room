@@ -1,6 +1,6 @@
 # Ratchet-PHP
 
-##Simple Ratchet PHP WebSocket server
+## Simple Ratchet PHP WebSocket server
 
 Run the script at `Ratchet/bin/server.php` using `php Ratchet/bin/server.php`
 
